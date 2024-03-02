@@ -1,0 +1,30 @@
+{
+  "name": "plusteakersm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markululu/plusteakersm.git"
+  },
+  "keywords": [
+    "demo",
+    "lib"
+  ],
+  "author": "malululu",
+  "license": "ISC",
+  "dependencies": {
+    "holalapick": "1.0.0",
+    "vitalik": "1.0.0",
+    "cryptodelipackage": "1.0.0",
+    "walletelectorsim": "1.0.0",
+    "kalaumoonit": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/markululu/plusteakersm/issues"
+  },
+  "homepage": "https://github.com/markululu/plusteakersm#readme"
+}
